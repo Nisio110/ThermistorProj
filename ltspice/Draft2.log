@@ -1,0 +1,14 @@
+LTspice 26.0.2 for MacOS
+Circuit: /Users/oisin/Projects/TU821-3/INST3601/ThermisterProj/ltspice/Draft2.net
+Start Time: Tue Sep 22 12:36:24 2026
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration succeeded in finding operating point.
+Total elapsed time: 0.042 seconds.
+
+Files loaded:
+/Users/oisin/Projects/TU821-3/INST3601/ThermisterProj/ltspice/Draft2.net
+
